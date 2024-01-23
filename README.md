@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rih-137&label=Profile%20views&color=0e75b6&style=flat" alt="rih-137" /> </p>
 
-- 🔭 I’m currently working on **Android Projects**
+- 🔭 I’m currently working on **Machine Learning projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m currently learning **DSA**
 
-- 🤝 I’m currently learning **BlockChain Development**
+- 🤝 Have knowledge of **BlockChain Development** and **Android devekopment**
+
+- - 🤝 Have knowledge of **SQL** and **MongoDB**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rishi-rih/](https://www.linkedin.com/in/rishi-rih/)
 
