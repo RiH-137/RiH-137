@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rishi-rih/](https://www.linkedin.com/in/rishi-rih/)
 
-- 💬 Ask me about **Kotlin, Solidity, Python, Javascript and Java.**
+- 💬 Ask me about **Kotlin, Solidity, Python, React, Javascript and Java.**
 
 - 📫 How to reach me **101rishidsr@gmail.com**
 
