@@ -40,7 +40,7 @@
 
 **Front-end Frameworks:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,,nextjs,bootstrap,tailwind,threejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,bootstrap,tailwind,threejs,html,css)](https://skillicons.dev)
 
 
 **Back-end Frameworks:**
@@ -75,7 +75,19 @@
 
 **Development Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=babel,anaconda,visualstudio,vscode,idea,npm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=babel,vite,anaconda,visualstudio,vscode,idea,npm,postman)](https://skillicons.dev)
+
+
+
+**Machine Learning:**
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearnopencv)](https://skillicons.dev)
+
+
+**Linux:**
+
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,linux)](https://skillicons.dev)
+
 
 
 **3D Modeling & CAD:**
