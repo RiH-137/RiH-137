@@ -111,8 +111,6 @@
 
 <p>
 
-[![Click to watch on YouTube](images/Link_Click_Sticker_by_Piexin.gif)](https://youtu.be/dQw4w9WgXcQ?si=2BLvZ0SkOo1B7BDB)
-
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left"> 
@@ -146,6 +144,9 @@
 
 ## &nbsp;🏆 Holopin board 
 [![@RiH's Holopin board](https://holopin.me/rih_137)](https://holopin.io/@rih_137)
+
+[![Click to watch on YouTube]([images/Link_Click_Sticker_by_Piexin.gif](https://github.com/RiH-137/RiH-137/blob/0a1b00df359f20a6b2231b9f0c89c12ebc235285/images/Link%20Click%20Sticker%20by%20Piexin.gif))](https://youtu.be/dQw4w9WgXcQ?si=2BLvZ0SkOo1B7BDB)
+
 
 
 
