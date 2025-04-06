@@ -146,10 +146,8 @@
 [![@RiH's Holopin board](https://holopin.me/rih_137)](https://holopin.io/@rih_137)
 
 
-
-<p align="center"><img src="./images/chess.gif" width="100%"/></p>
-
-
+##
+<p align="center"><img src="./images/chess.gif" width="40%"/></p>
 
 
 
@@ -166,7 +164,9 @@
 
 
 
-<p align="center"><img src="./images/chess.gif" width="100%"/></p>
+
+
+<p align="center"><img src="./images/bye.gif" width="40%"/></p>
 
 
 
