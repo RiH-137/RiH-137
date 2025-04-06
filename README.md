@@ -111,6 +111,16 @@
 
 <p>
 
+# My Favorite Song with Animation
+
+Check out this cool animated music video:
+
+[![🖱️](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)]((https://youtu.be/dQw4w9WgXcQ?si=2Wv--NVaC1ApYXW8))
+
+Also, here's an animation to vibe with the song:
+
+![Animation]([https://example.com/your-animation.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tka3I5ajV0dzRmcTNxZzV1enpoZ2tqczEycW5sYnZkZ3ZydGN4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/haN7lBN5PJqjm/giphy.gif))
+
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left"> 
 <a href="https://github.com/RiH-137"> 
