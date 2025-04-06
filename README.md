@@ -32,6 +32,9 @@
 - 📫 Feel free to contact me : **101rishidsr@gmail.com**
 - ⚡ Fun fact **I am memer and formula 1 lover**
 
+
+<img src="./images/message.gif" width="300px" align="right">
+
 </p>
 
 ## 📈  &nbsp;Technical Skills and Expertise
@@ -126,7 +129,7 @@
   <p align="center"> Keep Pushing🔥 </p>
 </p>
 
-<img src="./images/message.gif" width="300px" align="right">
+
 
 ## 🙋‍♀️ Let's Connect
 
