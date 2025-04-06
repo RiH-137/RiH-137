@@ -1,3 +1,5 @@
+<img src="./images/computer.gif" width="100%"/>
+
 <h1 align="center">Yo, it's Rishi Ranjan ✌️</h1>
 
 <p align="center">
@@ -124,6 +126,8 @@
   <p align="center"> Keep Pushing🔥 </p>
 </p>
 
+<img src="./images/message.gif" width="300px" align="right">
+
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
@@ -136,3 +140,6 @@
 
 ## &nbsp;🏆 Holopin board 
 [![@RiH's Holopin board](https://holopin.me/rih_137)](https://holopin.io/@rih_137)
+
+
+
