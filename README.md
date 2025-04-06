@@ -141,21 +141,13 @@
 	<a href="https://www.x.com/rih__theory/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
 	<a href="mailto:101rishidsr@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
-
+<p>
 ## &nbsp;🏆 Holopin board 
 [![@RiH's Holopin board](https://holopin.me/rih_137)](https://holopin.io/@rih_137)
 
+</p>
 
 
-
-<a href="javascript:void(0);" onclick="document.getElementById('audioPlayer').play();">
-  <img src="images/click.gif" alt="Click to play audio">
-</a>
-
-<audio id="audioPlayer" style="display:none;">
-  <source src="images/music.mp3" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
 
 
 
