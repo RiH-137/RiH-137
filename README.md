@@ -141,11 +141,33 @@
 	<a href="https://www.x.com/rih__theory/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
 	<a href="mailto:101rishidsr@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
-<p>
+
 ## &nbsp;🏆 Holopin board 
 [![@RiH's Holopin board](https://holopin.me/rih_137)](https://holopin.io/@rih_137)
 
-</p>
+
+
+<p align="center"><img src="./images/chess.gif" width="100%"/></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center"><img src="./images/chess.gif" width="100%"/></p>
+
 
 
 
