@@ -110,7 +110,7 @@
 [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 
 <p>
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left"> 
@@ -200,7 +200,7 @@ Raise an [issue](https://github.com/RiH-137/RiH-137/issues).
 
 
 ##
-[![Demo Site](https://user-images.githubusercontent.com/20955511/183703055-42ec8754-d84c-414f-8132-a02974224aa1.gif "Demo Site")](https://readme-typing-svg.demolab.com/demo/)
+
 
 
 
