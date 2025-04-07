@@ -15,6 +15,8 @@
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 
+
+
 <h1 align="center">Yo, it's Rishi Ranjan ✌️</h1>
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
@@ -24,9 +26,7 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 
-<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg"  width="600">
+
 
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
@@ -36,11 +36,6 @@
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-
 
  
 <p align="center">
