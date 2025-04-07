@@ -134,7 +134,7 @@
 
 **Containerization & Orchestration:**
 
-[![My Skills](https://skillicons.dev/icons?i=Docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 
 **State Management:**
