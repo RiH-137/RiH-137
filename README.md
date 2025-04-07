@@ -149,7 +149,8 @@
 ##
 <p align="center"><img src="./images/chess.gif" width="40%"/></p>
 
-## Tim's Community Chess Tournament
+## Open Source Chess Tournament
+#### Powered by RiH & Github Actions
 
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black (solid) piece.
 
@@ -184,7 +185,7 @@
 
 
 
-
+####
 **Notice a problem?**
 
 Raise an [issue](https://github.com/RiH-137/RiH-137/issues).
