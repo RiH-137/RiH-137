@@ -16,6 +16,21 @@
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 
 <h1 align="center">Yo, it's Rishi Ranjan ✌️</h1>
+<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<p align="center">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+
+<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg"  width="600">
+
+<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
 
 
 <!--📏LINE-->
@@ -157,6 +172,55 @@
   </a>
   <p align="center"> Keep Pushing🔥 </p>
 </p>
+
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
+<img src="https://raw.githubusercontent.com/RiH-137/RiH-137/snake/github-snake-dark.svg" width="100%">
+
+<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
+<h4 align="right">
+<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
+<p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
+</p>
+</details>
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
+
+<!--🤣JOYEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<p align="center">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-joy-gif.gif" width="30">
+
+<!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
+<p align="center">
+<img src="https://readme-jokes-trinibs-projects.vercel.app/api" alt="Jokes Card" width="400">
+
+<!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
+
+<!--🍷WINEEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<p align="center">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30">
+
+<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/cheehwatang/github-readme-daily-quotes & https://github.com/shravan20/github-readme-quotes -->
+<p align="center">
+<img src="https://piyu-github-readme-quotes-trinibs-projects.vercel.app/api?theme=merko&border=true">
+<p align="center">
+<img src="https://github-readme-quotes-trinibs-projects.vercel.app/quote?theme=merko&layout=churchill&animation=grow_out_in&font=Architect">
+<p align="center">
+<img src="https://github-readme-daily-quotes-trinibs-projects.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker"><br><br>
+
+
 
 
 
