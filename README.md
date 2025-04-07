@@ -5,7 +5,7 @@
 
 <!--🖼️Bale-->
 <p align="center">
-<img src="https://tenor.com/b0fhP.gif" height="240" width="370">
+<div class="tenor-gif-embed" data-postid="27189087" data-share-method="host" data-aspect-ratio="1.23552" data-width="100%"><a href="https://tenor.com/view/christian-bale-bale-uuu-uuuuu-6161-gif-27189087">Christian Bale Bale Sticker</a>from <a href="https://tenor.com/search/christian+bale-stickers">Christian Bale Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
