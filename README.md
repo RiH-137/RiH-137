@@ -183,9 +183,16 @@
 | **H7** | [H5](https://github.com/RiH-137/RiH-137/issues/new?title=chess%7Cmove%7Ch7h5%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H6](https://github.com/RiH-137/RiH-137/issues/new?title=chess%7Cmove%7Ch7h6%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 | **H8** | [G8](https://github.com/RiH-137/RiH-137/issues/new?title=chess%7Cmove%7Ch8g8%7C36019&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 
+#### Just click on the above *Button*  (hyperlink... eg., A5, A6, B5, B6...)
+.
+.
+.
+.
+.
+##### White is moving...
+<p align="center"><img src="./images/bye.gif" width="40%"/></p>
 
 
-####
 **Notice a problem?**
 
 Raise an [issue](https://github.com/RiH-137/RiH-137/issues).
@@ -205,4 +212,3 @@ Raise an [issue](https://github.com/RiH-137/RiH-137/issues).
 
 
 
-<p align="center"><img src="./images/bye.gif" width="40%"/></p>
