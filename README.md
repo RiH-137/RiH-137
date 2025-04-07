@@ -138,15 +138,12 @@
 <p>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 	
-<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/yogeshwaran01/github-stats-terminal-style -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/RiH-137/github-stats-terminal-style/master/github_stats.svg">
 
  
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left"> 
 <a href="https://github.com/RiH-137"> 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityaranjan2005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RiH-137&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
 <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaranjan2005&layout=compact&langs_count=8&theme=algolia"/> 
 </a>
 </p>
