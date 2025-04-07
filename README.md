@@ -3,7 +3,7 @@
 <h1 align="center">Yo, it's Rishi Ranjan ✌️</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Engineering+Student;MERN+Stack+Web+Developer;Pro+DSA+Solver;Devops+Enthusiast;AWS;Machine+Learning;Artificial+Intelligence;Generative+AI;Blockchain+and+Web+3.0;Android+Development;Java;Python;Java+Script;Python;C+and+Kotlin;;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Engineering+Student;MERN+Stack+Web+Developer;Problem+Solver;Devops+Enthusiast;AWS;Machine+Learning;Artificial+Intelligence;Generative+AI;Blockchain+and+Web+3.0;Android+Development;Java;Python;Java+Script;Python;C+and+Kotlin;;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <p> 
