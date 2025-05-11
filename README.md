@@ -60,9 +60,8 @@
 - 💪🏻 **500+ CP Solved**
 - 🏢 Building **CohortLab**
 - 💖 Love **Machine Learning, Generative AI, MERN, Blockchain & Web3.O**
-- 💻 **5⭐** on **HackerRank**
 - 📫 Feel free to contact me : **101rishidsr@gmail.com**
-- ⚡ Fun fact **I am memer and formula 1 lover**
+- ⚡ Fun fact **formula 1 lover**
 
 
 <img src="./images/message.gif" width="300px" align="right">
