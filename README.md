@@ -126,11 +126,6 @@
 
 
 
-**3D Modeling & CAD:**
-
-[![My Skills](https://skillicons.dev/icons?i=autocad)](https://skillicons.dev)
-
-
 **Containerization & Orchestration:**
 
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
